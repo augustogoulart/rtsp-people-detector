@@ -1,0 +1,2 @@
+STREAM=rtsp://USER:PASSWORD@IP:PORT/cam/realmonitor?channel=CHANNEL&subtype=0
+NAME=MY-AWESOME-NAME
